@@ -38,6 +38,7 @@ import m_folio from '../assets/m-folio.png';
 import prof from '../assets/my_profile.png';
 import my_img from '../assets/my_img.jpg';
 import my_pic_done from '../assets/my_pic_done.png';
+// ok
 
 export default {
   email,
