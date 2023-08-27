@@ -38,7 +38,10 @@ import m_folio from '../assets/m-folio.png';
 import prof from '../assets/my_profile.png';
 import my_img from '../assets/my_img.jpg';
 import my_pic_done from '../assets/my_pic_done.png';
-// ok
+import ok1 from '../assets/1 f.png';
+import ok2 from '../assets/2 f.png';
+import ok1_up from '../assets/ok1_up.png';
+import my_upd from '../assets/my_upd.png';
 
 export default {
   email,
@@ -78,4 +81,8 @@ export default {
   m_folio,
   my_img,
   my_pic_done,
+  ok1,
+  ok2,
+  ok1_up,
+  my_upd,
 };
